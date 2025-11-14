@@ -1,8 +1,9 @@
 ##  About Me
 Hi! I'm Leen Massarwy.
 
-![full](https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg)
-
+<p align="center">
+  <img src="https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg" width="500" align="center"/>
+</p>
 Full Stack Developer building scalable and maintainable web applications.  
 Passionate about creating scalable, maintainable and DRY code that enhances user experience and drives project success.
 
@@ -11,8 +12,16 @@ Passionate about creating scalable, maintainable and DRY code that enhances user
 ## 🛠 Skills
 - Front-End: React.js, HTML, CSS, Redux  
 - Back-End: Node.js, Express.js, RESTful APIs, GraphQL, JWT  
-- Databases: MongoDB, PostgreSQL, Firebase  
-
+- Databases: MongoDB, PostgreSQL, Firebase
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 
 ## 🚀 Projects
