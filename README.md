@@ -10,7 +10,7 @@ Passionate about creating scalable, maintainable and DRY code that enhances user
 - Databases: MongoDB, PostgreSQL, Firebase.
 
 ## 🚀 Projects
-- **Factory Workforce Management System** – Web-based system for employee, department and shift management with JWT authentication.  
+- **Factory Workforce Management System** – Web-based system for employee, department and shift management with JWT authentication. front-end:(https://github.com/LeenMass/Factory_Management) back-end:(https://github.com/LeenMass/Factory_Management_api)
 - **User Management App** – CRUD web application integrating multiple RESTful APIs.  
 - **Laptop Store** – Full-stack e-commerce platform with product listings, shopping cart and checkout.  
 - **Caps-Lock – Employee Management System** – Team project for managing employees and projects in a large organization.
