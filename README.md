@@ -1,5 +1,6 @@
 ##  About Me
 I'm Leen Massarwy 
+![full](https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg)
 Full Stack Developer building scalable and maintainable web applications.
 Passionate about creating scalable, maintainable and DRY code that enhances user experience and drives project success.
 
