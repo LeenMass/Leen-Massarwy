@@ -51,5 +51,5 @@ Team project for managing employees and projects in a large organization.
 ---
 
 ## 📫 Contact
-- LinkedIn: (www.linkedin.com/in/leen-massarwy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leen-massarwy)
 - Email: leenmassarwy@gmail.com
