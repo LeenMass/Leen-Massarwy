@@ -1,4 +1,4 @@
-#  I'm Leen Massarwy 👋
+#  Leen Massarwy 
 
 <p align="center">
   <img src="https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg" width="500"/>
