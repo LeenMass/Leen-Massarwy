@@ -1,4 +1,4 @@
-# Hi! I'm Leen Massarwy 👋
+#  I'm Leen Massarwy 👋
 
 <p align="center">
   <img src="https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg" width="500"/>
@@ -49,9 +49,6 @@ Team project for managing employees and projects in a large organization.
 - Back-end: [GitHub Repo](https://github.com/LeenMass/caps-look-api)
 
 ---
-
-## 📫 Contact
-- LinkedIn: [Your LinkedIn Link](#)
 
 
 ## 📫 Contact
