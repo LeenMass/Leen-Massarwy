@@ -42,17 +42,17 @@ Passionate about writing **clean, DRY code** that enhances user experience and d
 ### 🔹 Users-Database
 This is an interactive React application for managing users, their posts, and tasks (Todos) using data from JSONPlaceholder.
 The app initializes a client-side database from server data and allows full CRUD operations on users, including their posts and tasks.
-- **Tech Stack:** React, Node.js, Express, PostgreSQL  
+- **Tech Stack:** React.js, RESTFULapi, js  
 - Repo: [GitHub Link](https://github.com/LeenMass/usersDb)
 
 ### 🔹 Laptop Store
 **Full-stack e-commerce platform** featuring product listings, shopping cart, and checkout.  
-- **Tech Stack:** React, Node.js, Express, MongoDB  
+- **Tech Stack:** React.js, Node.js, Express, Postgresql  
 - Repo: [GitHub Link](https://github.com/LeenMass/Laptop-s-Store)
 
 ### 🔹 Caps-Lock – Employee Management System
 Team project for managing employees and projects in a large organization.  
-- **Tech Stack:** React, Node.js, Express, MongoDB  
+- **Tech Stack:** React.js, Node.js, Express, PostgreSql,JWT  
 - Front-end: [GitHub Repo](https://github.com/LeenMass/caps-look)  
 - Back-end: [GitHub Repo](https://github.com/LeenMass/caps-look-api)
 
