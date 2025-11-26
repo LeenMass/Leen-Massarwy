@@ -56,14 +56,6 @@ Team project for managing employees and projects in a large organization.
 - Front-end: [GitHub Repo](https://github.com/LeenMass/caps-look)  
 - Back-end: [GitHub Repo](https://github.com/LeenMass/caps-look-api)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  ![Leen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenMass&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMass&layout=compact&theme=radical)
-</p>
 
 ---
 
