@@ -1,11 +1,13 @@
-#  Leen Massarwy 
+  # Leen Massarwy
 
 <p align="center">
   <img src="https://github.com/LeenMass/Leen-Massarwy/blob/main/full%20stack.jpg" width="500"/>
 </p>
 
-Full Stack Developer building scalable and maintainable web applications.  
-Passionate about writing clean, DRY code that enhances user experience and drives project success.
+Full Stack Developer building **scalable and maintainable web applications**.  
+Passionate about writing **clean, DRY code** that enhances user experience and drives project success.  
+
+✨ Check out my projects below or get in touch!
 
 ---
 
@@ -24,32 +26,50 @@ Passionate about writing clean, DRY code that enhances user experience and drive
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹Factory Workforce Management System
-Web-based system for employee, department and shift management with JWT authentication.  
+### 🔹 Factory Management System
+**Web-based system** for employee, department, and shift management with JWT authentication.  
+- **Tech Stack:** React, Node.js, Express, MongoDB, JWT  
 - Front-end: [GitHub Repo](https://github.com/LeenMass/Factory_Management)  
-- Back-end: [GitHub Repo](https://github.com/LeenMass/Factory_Management_api)
+- Back-end: [GitHub Repo](https://github.com/LeenMass/Factory_Management_api)  
 
-### 🔹User Management App
-CRUD web application integrating multiple RESTful APIs.  
+### 🔹 Users-Database
+This is an interactive React application for managing users, their posts, and tasks (Todos) using data from JSONPlaceholder.
+The app initializes a client-side database from server data and allows full CRUD operations on users, including their posts and tasks.
+- **Tech Stack:** React, Node.js, Express, PostgreSQL  
 - Repo: [GitHub Link](https://github.com/LeenMass/usersDb)
 
-### 🔹Laptop Store
-Full-stack e-commerce platform featuring product listings, shopping cart, and checkout.  
+### 🔹 Laptop Store
+**Full-stack e-commerce platform** featuring product listings, shopping cart, and checkout.  
+- **Tech Stack:** React, Node.js, Express, MongoDB  
 - Repo: [GitHub Link](https://github.com/LeenMass/Laptop-s-Store)
 
-### 🔹Caps-Lock – Employee Management System
+### 🔹 Caps-Lock – Employee Management System
 Team project for managing employees and projects in a large organization.  
+- **Tech Stack:** React, Node.js, Express, MongoDB  
 - Front-end: [GitHub Repo](https://github.com/LeenMass/caps-look)  
 - Back-end: [GitHub Repo](https://github.com/LeenMass/caps-look-api)
 
 ---
 
-## 📫 Contact
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leen-massarwy)
-- Email: leenmassarwy@gmail.com
+## 📊 GitHub Stats
+
+<p align="center">
+  ![Leen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenMass&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenMass&layout=compact&theme=radical)
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/leen-massarwy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:leenmassarwy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
