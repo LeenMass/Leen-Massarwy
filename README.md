@@ -7,7 +7,7 @@
 Full Stack Developer building **scalable and maintainable web applications**.  
 Passionate about writing **clean, DRY code** that enhances user experience and drives project success.  
 
-✨ Check out my projects below or get in touch!
+💡 Building practical solutions through code. Check out my projects or reach out to collaborate!
 
 ---
 
