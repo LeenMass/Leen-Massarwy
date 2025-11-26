@@ -42,7 +42,7 @@ Passionate about writing **clean, DRY code** that enhances user experience and d
 ### 🔹 Users-Database
 This is an interactive React application for managing users, their posts, and tasks (Todos) using data from JSONPlaceholder.
 The app initializes a client-side database from server data and allows full CRUD operations on users, including their posts and tasks.
-- **Tech Stack:** React.js, RESTFULapi, js  
+- **Tech Stack:** React.js, RESTful APIs, js  
 - Repo: [GitHub Link](https://github.com/LeenMass/usersDb)
 
 ### 🔹 Laptop Store
